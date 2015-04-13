@@ -21,8 +21,13 @@ the `#hackedu` IRC where his nick is `zrl`. It is recommended to take things off
 the backlog, and check in with the team at the daily "sprint checkin".
 
 * Sprint duration: 1 week
-* Sprint discuss: Mondays at `18:00-19:00 UTC` via +hangout (link posted in IRC)
-* Sprint checkin: daily at `18:00-18:05 UTC` on `#hackedu` IRC (Freenode)
+* Sprint discuss: Mondays at `5:00pm PST`, `8:00pm EST` via +hangout (link will be posted in #hackedu irc channel)
+* Sprint standups: Monday - Friday at `11:00am PST`, `2:00pm PST` on `#hackedu-standups` on IRC (Freenode)
+  * if you can't make the checkin, just post in #hackedu-standups before the syncup
+  * contents of syncup:
+    * what did you work on yesterday?
+    * what are you working on today?
+    * is there anything that is blocking you?
 
 Each sprint will be synthesized into an issue in this repo, as described in
 https://www.zenhub.io/blog/how-the-zenhub-team-uses-zenhub-boards-on-github/#keepingarecordofsprints.
