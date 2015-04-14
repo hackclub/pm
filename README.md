@@ -35,7 +35,7 @@ adjustments need to be made. This sync is critical to ensure the success of the
 sprint as a whole. If you cannot make it to a sprint checkin, leave your
 update + comments on IRC before the sync happens. If you won't be doing work the
 day of the sprint checkin, you're still expected to participate in the
-checking. Just mention that you won't be doing work/that there's been no
+checkin. Just mention that you won't be doing work/that there's been no
 progress.
 
 Each person must answer (kanban style):
