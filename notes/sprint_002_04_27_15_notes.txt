@@ -1,0 +1,127 @@
+Objective For The Week
+- Ship First Version of Club in  
+
+
+Notes from Jiahao
+- What are we going to do in the club
+- What is the budget for hackathons
+- What is our club constitution going to be (required by the school) my club consitution: - -https://docs.google.com/document/d/1xQUyhqMXZgixoUo3sfW18JyJc7WTvo7AcMDpO2Kg5yw/edit?usp=sharing
+- Format, structure
+- Have people spread the word
+- T-shirts, GET FREE HACKATHON T-SHIRTS
+- Recognize Amazon, Facebook, 
+
+- Club budget proposal
+
+Chaoyi
+- Finding a date
+- Find a date as many people could get to come, too lazy for certain days
+- 
+- Set tuesdays because the teacher sponsor was available
+- Everyone getting to the club meeting
+- => Did an announcment on announcment system
+- After the
+- 10 people came
+- since teacher has personal stuff
+- havn't been able to have a consistent meeting period
+- ***Getting people to know about it***
+- How do you access the people to access the club
+- Radnor doesn't have a centralized system to know about the clubs
+- Posters
+- Thinking about doing a fundraiser
+- Every year there is an expo of clubs and people write down the email things
+- People don't come every week, hard to have a consistent schedule
+- because teacher isn't really use to the 
+- The teacher has to come to the club in order for the club to be there, they are not used.
+
+Amy
+- Having the software available, you need a certain password available to install software (Chaoyi had this problem)
+- Chaoyi now uses Cloud9 ide
+- Figuring out what to do, important to have a plan set out first
+- having a long term plan and outline by this coming date.
+- Chaoyi
+- teacher suggested (also runs a robotics club)
+- Only one person was able to do this
+- Thinking about CodeCademy type thing
+- Decemberish, let's make a plan until april and may
+- Doesn't work
+- Instruction doesn't work
+- THis is this, this is that doesn't work
+- Project Based learning 
+- Have them actually code and code it and experiment it themselves
+- CHaoyi asks, how do people even have enough to even get started
+- Chaoyi personally did examples for 1 year
+- HOW TO BALENCE THE PROJECT BASED LEARNING
+
+=====
+Hangouts on air - tuesday at 2:30pm EST
+
+=====
+- "curriculum" how do we do this project based learning stuff, getting enough info to get started on a personal project
+- Have clear video demonstrations
+- software / installation
+
+- getting a room / time to meet / teacher present
+- talk to principal, did most of it
+
+=====
+
+Amy
+- Met where they are going to go
+- Amy, figuring out projects that we can do
+- Find 3 different kind of projects that the club would work on
+- 3 sentence describiptoin for each project
+- Furing out how to use cloud 9
+- 
+- Review Jiahow's budget, by the 1st
+
+Jiahow
+- Club budget, finish club budget it by the 30th
+- 29th get it to by amy 
+
+Amanda
+- Figuring how to use Github
+- Commit to finishing one tutorial
+
+Bogdan
+- Write blogpost on how to get an internship
+
+Jonathan
+- Create checklist for sprints and send out schedule
+
+- Send out survey for this sprint meeting
+- Ship a first iteration of a club in a box for
+Twiilio I
+Twilio II
+Twilio III (tasks)
+- A general guide
+- Cloud 9
+- Attendance
+- Blogpost talking about Google based development
+- Visiting a club, Evergreen
+
+- NFC Card - hackEDU Cards
+- VIP hackEDU card,
+- $1,300, $20,000
+- 
+Amanda, Amy, Jiahoo, Bodgan
+
+
+
+
+=====
+- gathering base metrics of exisitng clubs
+- especially to figure out Dropbox core issue
+- getting people into the clubs / marketing
+- retention
+- why you should let your son or daughter go to a hackathon
+- What do you put on your resume, 
+http://imgur.com/rw6abfM
+http://imgur.com/WrhtkU0
+=======
+
+- Having other club leaders putting up projects that they've done, sharing projects
+
+
+Todo Right now
+- Create Github Issue for this week's sprint
