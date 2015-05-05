@@ -1,0 +1,70 @@
+* Updates
+** Zach
+   Nothing! Just got back from travels.
+** Jonathan
+   * Overcommitted last week
+   * Figuring out how onboarding would work took longer than expected
+   * hackEDU Fellowship
+     * People contributing to hackEDU regularly over the summer and taking lead
+       on projects
+     * Marketing/operations/development/etc
+       * Amanda interested in sponsorship/development
+** Jiahao
+   * Update budget
+     * 3 people are working on NFC Signin project
+       * Is this code going to work until later this week!
+     * Split people out into advanced, beginner
+       * For Loop
+** Amy
+   * Didn't accomplish last week's sprint, no commitment this week
+* Tasks
+** Zach
+   * Lunch with Google
+   * Identify education foundations and find the right contacts at them
+   * Identify useful Richard connections to foundations
+   * Audible free accounts
+   * Get intros from Quinn to people who can give us money
+   * Get list of Jonathan's connections, write emails to outread
+   * Get introduction to Microsoft
+   * Make it so Jiahao can check of tasks in our issues
+   * Create IRCCloud accounts for Amy, Jiahao, and Wilson
+   * Add Wilson to GitHub team (@wilsonhsieh)
+   * Get Austin Carvey to introduce us to the Intel Education Foundation
+** Jonathan
+   * High level
+     * Reconnect with club leaders and ensure proper succession
+     * Finish MVP of CIAB for intro materials
+   * Do user research on how to do hackEDU task
+   * Make sure all clubs are running next year
+     * Is there a successor?
+     * Do we know them?
+     * Where are you going to college?
+     * Testimonial for hackEDU
+     * NPS for hackEDU
+     * Biggest problems you've faced as a club leader
+       * Validate the assumption that the biggest thing is currucilum
+     * Get club leaders to make a PR to add themselves to a club leaders CSV with their name and info
+   * Make all Twilio workshops accessible
+   * Write blog post on the Google philosophy
+   * Finish joining community slides
+   * Basic stuff for starting clubs
+     * Club constitution
+     * Club budget
+     * Clarification of what a "hacker" is
+   * Make an attendance template sheet
+   * Create lesson structure document.
+     * How to format a given club session.
+   * Send things to Jiahao and Cydrobolt
+   * Send out sprint discussion survey.
+** Jiahao
+   * Convert club documents to GitHub markdown
+     * Club constitution
+     * Club budgets
+   * So that we can be more hackathon style
+     * Work with Jonathan to improve Twilio workshops, and potentially create a
+       new one.
+** Wilson
+   * Read through documentation on GitHub, see where we're at
+   * Identify big needs in organization
+** Chaoyi
+   * Put together markdown lesson plan for FizzBuzz workshop
