@@ -1,0 +1,105 @@
+#+TODO: TODO WAIT RESCHEDULED | DONE CANCELED
+
+* Review
+** Zach
+*** Tasks
+**** RESCHEDULED Lunch with Google
+**** TODO Identify and find contacts at potential education foundations zachlatta/fundraising#19 (@zachlatta)
+**** TODO Identify potential donors that Richard has connections with zachlatta/fundraising#20 (@zachlatta)
+**** DONE Get intros from Quinn to potential donors (@zachlatta)
+**** DONE Get intros from Ryan to potential donors (@zachlatta)
+**** RESCHEDULED Audible free accounts zachlatta/fundraising#21 (@zachlatta)
+**** CANCELED Write and send emails to reach out to @jonleung's potential donors (@zachlatta)
+**** WAIT Get introduction to Microsoft (@zachlatta)
+**** WAIT Get introduction to the Intel Education Foundation from Austin Carvey
+**** DONE Add @wilsonhsieh to GitHub team (@zachlatta)
+*** Backlog
+**** TODO Google Adwords zachlatta/fundraising#23 (@zachlatta)
+**** TODO Newsletter hackedu/meta#40 (@zachlatta)
+**** TODO Create separate Google Hangouts URLs for more partytimes hackedu/meta#39 (@zachlatta)
+**** DONE Respond to HP zachlatta/fundraising#14 (@zachlatta)
+**** TODO Apply to the Open Society Youth Fellowship zachlatta/fundraising#24 (@zachlatta)
+**** DONE Experiment with Floobits to get realtime Emacs collaboration (@zachlatta)
+** Jonathan
+*** TODO Get in touch with club leaders and make sure everyone, if needed, has a successor
+    Got in touch with ~9 people. Max messaged everyone, waiting on responses
+    now.
+*** TODO Make Twilio workshops accessible hackedu/hackedu#22 (@jonleung)
+*** TODO Write blog post on the "Google philosophy" (@jonleung)
+*** TODO Finish the Joining Community slides (@jonleung)
+*** TODO Basic stuff for starting clubs
+**** TODO Club constitution hackedu/hackedu#15 (@jonleung)
+**** TODO Club budget hackedu/hackedu#20 (@jonleung)
+**** TODO Attendance sheet hackedu/hackedu#23 (@jonleung)
+*** TODO Lesson structure document hackedu/hackedu#24 (@jonleung)
+** Max
+   Nothing, was traveling.
+** Wilson
+*** DONE Read through documentation on GitHub & talk to @zachlatta/@jonleung to understand where we're at (@wilsonhsieh)
+*** DONE Identify the biggest needs in the organization (@wilsonhsieh)
+** Jiahao
+*** CANCELED Convert club documents to GitHub markdown (@xeonjake)
+**** CANCELED Club constitution
+     Was changed to HTML instead of Markdown
+**** CANCELED Club budgets (may be related to hackedu/hackedu#20)
+     Didn't make sense.
+* Tasks
+  Goals:
+
+  * Club-in-a-box
+    * Figure out how to leverage summer camp to help us figure out what to put
+      in the CIAB
+    * Be explicit about what we actually want the outcomes of the clubs to be
+    * Summer camp
+      * Acquire students
+        1) Throw up a website
+        2) Message all the outlets we're aware of for the website
+      * Figure out potential iteration structure
+        * Do we want a two week format? Multiple at the same time? What does it
+          look like?
+
+** Jonathan
+
+*** Tasks
+**** TODO Write these tasks
+**** TODO Chat with Amy about summer program
+**** TODO Get back to people on internships stuff, talk to Zach
+*** Backlog
+**** TODO Create summer program budget
+** Max
+*** TODO Data collection from club leaders (ensuring successors)
+*** TODO Summer program budget
+*** TODO Summer program venue
+*** TODO Summer program website content, not design
+** Wilson
+*** Work on documentation through the whole learning process (not a deliverable)
+*** TODO Have coffee with the team
+    * to meet everyone in person
+    * understand the areas of responsibility
+*** TODO Work with Max on finding a venue for the summer program
+** Jiahao
+*** TODO Write email with Zach to send out for sponsorship
+**** TODO Figure out what is needed with the sponsors (domains, etc)
+*** TODO Start work on the club website
+** Zach
+*** TODO Find a time that works for coffee with Wilson
+*** TODO Modify readme of pm repo to also say link will posted in FB
+*** TODO Audible free accounts zachlatta/fundraising#21 (@zachlatta)
+*** WAIT Get introduction to Microsoft (@zachlatta)
+*** WAIT Get introduction to the Intel Education Foundation from Austin Carvey
+*** TODO Google Adwords zachlatta/fundraising#23 (@zachlatta)
+*** TODO Newsletter hackedu/meta#40 (@zachlatta)
+*** TODO Create separate Google Hangouts URLs for more partytimes hackedu/meta#39 (@zachlatta)
+*** TODO Get intros from Alana
+*** TODO Identify connections that we have through Lonsdale/Alana
+*** TODO Get money in the bank
+*** TODO Make persistent URL for sprint discuss
+*** TODO Debug Floobits and make sure editing works from the web interface
+* Footnotes
+** Zach
+*** Does it actually make sense to have club leaders on these calls?
+*** How can we be more effective during these calls
+*** Should these calls be discussions or throwing information around?
+    Perhaps we should break up what we're working on into projects and have the
+    leaders of each project just say what they're doing for the week and be
+    responsibile for making sure it's the right thing to do
