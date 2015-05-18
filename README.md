@@ -2,7 +2,12 @@
 
 _Inspired by [ipfs's pm repository](https://github.com/ipfs/pm)._
 
----
+-------------------------------------------------------------------------------
+
+**NOTE**: The sprint discuss on 05/18/15 has been cancelled. Join us in #hackedu
+  on freenode in the meantime.
+
+-------------------------------------------------------------------------------
 
 This is a repository for general hackEDU project management.
 
