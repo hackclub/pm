@@ -1,0 +1,67 @@
+#+TYP_TODO: Andrea Jonathan Max Zach | DONE
+
+* Jonathan Acquire venue [1/4]
+  DEADLINE: <2015-05-26 Tue>
+** DONE Verbal confirmation
+** Jonathan Finalize requirements with venue
+** Zach Create MOU with requirements
+** Jonathan Get MOU signed by venue
+* Max Update website with latest venue & application info [1/3]
+** DONE Next round of applications
+   DEADLINE: <2015-05-23 Sat>
+** Max With venue
+   DEADLINE: <2015-05-24 Sun>
+** Max Camp happens from 9:20AM - 4PM
+   DEADLINE: <2015-05-24 Sun>
+* Zach Send general update
+  DEADLINE: <2015-05-24 Sun>
+  To mention:
+
+  * Venue
+  * I know we told you we'd only let you know about the venue if you were
+    admitted, but we're so excited about our partnership with Galvanize we
+    wanted to let you all know. Something like that.
+  * Admissions process (doing it on a rolling basis. if you haven't heard from
+    us, don't worry, etc)
+  * If your preferred dates have changed, please reply to this email and I'll
+    update it on our backend (mention the dates that we have down for them--mail
+    merge)
+* Zach Accept students for first cohort [0/7]
+  DEADLINE: <2015-05-24 Sun>
+** Jonathan Identify students to accept
+   DEADLINE: <2015-05-23 Sat>
+** Max Create student acceptance and payment backend
+   DEADLINE: <2015-05-24 Sun>
+   Has two steps to it:
+
+   1) Fill out a confirmation form
+      * Have a checkbox where they agree to show up every day on time
+        * "I commit to showing up at Hack Camp from 9:20AM to 4PM every day and
+          if I cannot make it or will be late to a session, I will let a Hack
+          Camp mentor know as soon as possible."
+      * Have a checkbox where they agree about being kicked out if they have an
+        unexcused absence
+        * "I understand that if I have two unexcused absences, I will be hunted
+          down and found"
+      * Have a checkbox to confirm that they have a laptop to bring
+      * Mention at the top of the form that 7PM Wednesday, the 27th is the
+        deadline to pay. Their spot will be forfeited if they don't pay by
+        then.
+** Zach Call every accepted applicant
+   DEADLINE: <2015-05-24 Sun>
+   * Leave a voicemail if they don't answer
+   * Text if they don't answer call
+** Zach Send out acceptance emails
+   DEADLINE: <2015-05-24 Sun>
+   * Email goes to both students and parent (parent is CCed)
+   * Jonathan is CCed on email. Mention that Jonathan will reach out because he
+     "wants to get to know you better to best fit the program to your needs".
+** Zach Send out waitlist emails (if they only applied to the first cohort)
+   DEADLINE: <2015-05-24 Sun>
+** Zach Follow up on acceptance emails with everyone who hasn't paid
+   DEADLINE: <2015-05-26 Tue>
+** Zach After payment, send email to collect waivers/more info
+   DEADLINE: <2015-05-29 Fri>
+   * Liability agreement
+   * Media waiver
+   * URL to a photo of them (so Jonathan can memorize their names)
