@@ -6,12 +6,12 @@
 ** Jonathan Finalize requirements with venue
 ** Zach Create MOU with requirements
 ** Jonathan Get MOU signed by venue
-* Max Update website with latest venue & application info [1/3]
+* Max Update website with latest venue & application info [2/3]
 ** DONE Next round of applications
    DEADLINE: <2015-05-23 Sat>
 ** Max With venue
    DEADLINE: <2015-05-24 Sun>
-** Max Camp happens from 9:20AM - 4PM
+** DONE Camp happens from 9:20AM - 4PM
    DEADLINE: <2015-05-24 Sun>
 * Zach Send general update
   DEADLINE: <2015-05-24 Sun>
