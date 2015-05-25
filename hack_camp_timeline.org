@@ -29,7 +29,7 @@
 * Zach Accept students for first cohort [0/7]
   DEADLINE: <2015-05-24 Sun>
 ** Jonathan Identify students to accept
-   DEADLINE: <2015-05-23 Sat>
+   DEADLINE: <2015-05-25 Mon 16:00>
 ** Max Create student acceptance and payment backend
    DEADLINE: <2015-05-24 Sun>
    Has two steps to it:
