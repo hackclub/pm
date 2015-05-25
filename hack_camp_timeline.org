@@ -1,19 +1,6 @@
 #+TYP_TODO: Andrea Jonathan Max Zach | DONE
 
-* Jonathan Acquire venue [1/4]
-  DEADLINE: <2015-05-26 Tue>
-** DONE Verbal confirmation
-** Jonathan Finalize requirements with venue
-** Zach Create MOU with requirements
-** Jonathan Get MOU signed by venue
-* Max Update website with latest venue & application info [2/3]
-** DONE Next round of applications
-   DEADLINE: <2015-05-23 Sat>
-** Max With venue
-   DEADLINE: <2015-05-24 Sun>
-** DONE Camp happens from 9:20AM - 4PM
-   DEADLINE: <2015-05-24 Sun>
-* Zach Send general update
+* Zach Send general email update to all applicants
   DEADLINE: <2015-05-24 Sun>
   To mention:
 
@@ -26,52 +13,80 @@
   - If your preferred dates have changed, please reply to this email and I'll
     update it on our backend (mention the dates that we have down for them--mail
     merge)
-* Zach Accept students for first cohort [0/7]
-  DEADLINE: <2015-05-24 Sun>
-** Jonathan Identify students to accept
-   DEADLINE: <2015-05-25 Mon 16:00>
-** Max Create student acceptance and payment backend
+* Zach Maestro 
+* Max Update website with latest venue & application info [2/3]
+** DONE Next round of applications
+   DEADLINE: <2015-05-23 Sat>
+** Max With venue
    DEADLINE: <2015-05-24 Sun>
-   Has two steps to it:
-
-   1) Fill out a confirmation form
-      - Have a checkbox where they agree to show up every day on time
-        - "I commit to showing up at Hack Camp from 9:20AM to 4PM every day and
-          if I cannot make it or will be late to a session, I will let a Hack
-          Camp mentor know as soon as possible."
-      - Have a checkbox where they agree about being kicked out if they have an
-        unexcused absence
-        - "I understand that if I have two unexcused absences, I will be hunted
-          down and found"
-      - Have a checkbox to confirm that they have a laptop to bring
-      - Mention at the top of the form that 7PM Wednesday, the 27th is the
-        deadline to pay. Their spot will be forfeited if they don't pay by
-        then.
-** Zach Call every accepted applicant
+** DONE Camp happens from 9:20AM - 4PM
    DEADLINE: <2015-05-24 Sun>
-   - Leave a voicemail if they don't answer
-   - Text if they don't answer call
-** Zach Send out acceptance emails
-   DEADLINE: <2015-05-24 Sun>
-   - Email goes to both students and parent (parent is CCed)
-   - Jonathan is CCed on email. Mention that Jonathan will reach out because he
-     "wants to get to know you better to best fit the program to your needs".
-** Zach Send out waitlist emails (if they only applied to the first cohort)
-   DEADLINE: <2015-05-24 Sun>
-** Zach Follow up on acceptance emails with everyone who hasn't paid
-   DEADLINE: <2015-05-26 Tue>
-** Zach After payment, send email to collect waivers/more info
-   DEADLINE: <2015-05-29 Fri>
-   - Liability agreement
-   - Media waiver
-   - URL to a photo of them (so Jonathan can memorize their names)
-* Zach Figure out financial aid
-  DEADLINE: <2015-05-26 Tue>
-** Zach Email Sooz for what questions she'd ask for financial aid
-   DEADLINE: <2015-05-24 Sun>
-** DONE Email Jeremy to see how they do financial aid
-   DEADLINE: <2015-05-24 Sun>
-   - Which documents they ask for
-   - How they determine how much to give
-* Max Submit PR to update website for next round of applicants
+* DONE Submit PR to update website for next round of applicants
   DEADLINE: <2015-05-30 Sat>
+* Cohort 1 Preparation
+  DEADLINE: <2015-06-01 Mon>
+** Jonathan Acquire venue [1/4]
+   DEADLINE: <2015-05-26 Tue>
+*** DONE Verbal confirmation
+*** Jonathan Finalize requirements with venue
+*** Zach Create MOU with requirements
+*** Jonathan Get MOU signed by venue
+** Zach Accept students for first cohort [0/7]
+   DEADLINE: <2015-05-24 Sun>
+*** Jonathan Identify students to accept
+    DEADLINE: <2015-05-25 Mon 16:00>
+*** Max Create student acceptance and payment backend
+    DEADLINE: <2015-05-24 Sun>
+    Has two steps to it:
+
+    1) Fill out a confirmation form
+       - Have a checkbox where they agree to show up every day on time
+         - "I commit to showing up at Hack Camp from 9:20AM to 4PM every day and
+           if I cannot make it or will be late to a session, I will let a Hack
+           Camp mentor know as soon as possible."
+       - Have a checkbox where they agree about being kicked out if they have an
+         unexcused absence
+         - "I understand that if I have two unexcused absences, I will be hunted
+           down and found"
+       - Have a checkbox to confirm that they have a laptop to bring
+       - Mention at the top of the form that 7PM Wednesday, the 27th is the
+         deadline to pay. Their spot will be forfeited if they don't pay by
+         then.
+       - Get t-shirt size for participant and parent
+    2) Payment
+*** Zach Call every accepted applicant
+    DEADLINE: <2015-05-24 Sun>
+    - Leave a voicemail if they don't answer
+    - Text if they don't answer call
+*** Zach Send out acceptance emails
+    DEADLINE: <2015-05-24 Sun>
+    - Email goes to both students and parent (parent is CCed)
+    - Jonathan is CCed on email. Mention that Jonathan will reach out because he
+      "wants to get to know you better to best fit the program to your needs".
+*** Zach Send out waitlist emails (if they only applied to the first cohort)
+    DEADLINE: <2015-05-24 Sun>
+*** Zach Follow up on acceptance emails with everyone who hasn't paid
+    DEADLINE: <2015-05-26 Tue>
+*** Zach After payment, send email to collect waivers/more info
+    DEADLINE: <2015-05-29 Fri>
+    - Liability agreement
+    - Media waiver
+    - URL to a photo of them (so Jonathan can memorize their names)
+** Zach Figure out financial aid
+   DEADLINE: <2015-05-26 Tue>
+*** Zach Email Sooz for what questions she'd ask for financial aid
+    DEADLINE: <2015-05-24 Sun>
+*** DONE Email Jeremy to see how they do financial aid
+    DEADLINE: <2015-05-24 Sun>
+    - Which documents they ask for
+    - How they determine how much to give
+** Zach Order stickers and t-shirts for first cohort
+   DEADLINE: <2015-05-27 Wed>
+** Andrea Brainstorm things that need to be done for the experience and run by Jonathan
+   DEADLINE: <2015-05-25 Mon>
+** Jonathan Work with Andrea to aggregate what needs to be done for the experience
+   DEADLINE: <2015-05-25 Mon>
+** Zach Set up 30 min team meeting to go over things that need to be done for experience
+   DEADLINE: <2015-05-25 Mon>
+** Andrea Figure out how to measure efficacy of first batch
+   DEADLINE: <2015-05-28 Thu>
