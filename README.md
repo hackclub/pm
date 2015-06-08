@@ -4,8 +4,8 @@ _Inspired by [ipfs's pm repository](https://github.com/ipfs/pm)._
 
 -------------------------------------------------------------------------------
 
-**NOTE**: The sprint discuss on 05/18/15 has been cancelled. Join us in #hackedu
-  on freenode in the meantime.
+**NOTE**: The sprint discuss on 06/08/15 has been cancelled. Join us in #hackedu
+  on freenode in the meantime. We'll have our next sprint discuss on 06/15/15.
 
 -------------------------------------------------------------------------------
 
