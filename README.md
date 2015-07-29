@@ -1,11 +1,14 @@
 # hackEDU - Project Management
 
-_Inspired by [ipfs's pm repository](https://github.com/ipfs/pm)._
+**DEPRECATED:** This repository is deprecated.
+
+We've since moved to a kanban workflow using a [ZenHub](https://www.zenhub.io/)
+board in [hackedu/hackedu](https://github.com/hackedu/hackedu) that references
+all of our active repositories.
 
 -------------------------------------------------------------------------------
 
-**NOTE**: The sprint discuss on 06/15/15 has been cancelled. Join us in #hackedu
-  on freenode in the meantime.
+_Inspired by [ipfs's pm repository](https://github.com/ipfs/pm)._
 
 -------------------------------------------------------------------------------
 
